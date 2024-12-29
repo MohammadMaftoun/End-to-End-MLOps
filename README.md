@@ -7,10 +7,10 @@ This repository is a comprehensive guide to MLOps (Machine Learning Operations) 
 # Key topics covered
 
     CI/CD for ML Pipelines: Automating workflows with tools like GitHub Actions, Jenkins, and GitLab CI.
-    Model Training & Optimization: Managing experiments using tools such as MLflow, Weights & Biases, and Optuna.
+    Model Training & Optimization: Managing experiments using MLflow, Weights & Biases, and Optuna tools.
     Model Deployment: Deploying models to production with Docker, Kubernetes, and cloud platforms such as AWS SageMaker and Google AI Platform.
     Data Versioning: Leveraging tools like DVC and Pachyderm for efficient data management.
-    Monitoring & Logging: Tracking model performance in production using tools like Prometheus, Grafana, and Evidently AI.
+    Monitoring & Logging: Tracking model performance in production using tools like Prometheus, Grafana, and AI.
     Infrastructure as Code (IaC): Setting up scalable environments with Terraform and Ansible.
 
 This repository is ideal for data scientists, ML engineers, and DevOps professionals looking to bridge the gap between machine learning and software engineering.
