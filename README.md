@@ -1,12 +1,12 @@
 # End-to-End-MLOps
 
-This repository is a comprehensive guide to MLOps (Machine Learning Operations) — the practice of streamlining and automating the deployment, monitoring, and maintenance of machine learning models in production. It provides resources, tutorials, and best practices for implementing robust MLOps pipelines, making machine learning scalable and efficient.
+This repository is a comprehensive guide to MLOps (Machine Learning Operations) — the technique of streamlining and automating the deployment, monitoring, and maintenance of machine learning models in production. It provides resources, tutorials, and best practices for implementing robust MLOps pipelines, making machine learning scalable and efficient.
 
 ![MLops](https://ml-ops.org/img/mlops-phasen.jpg)
 
 # Key topics covered
 
-    CI/CD for ML Pipelines: Automating workflows with tools like GitHub Actions, Jenkins, and GitLab CI.
+    CI/CD for ML Pipelines: Automate workflows with GitHub Actions, Jenkins, and GitLab CI tools.
     Model Training & Optimization: Managing experiments using MLflow, Weights & Biases, and Optuna tools.
     Model Deployment: Deploying models to production with Docker, Kubernetes, and cloud platforms such as AWS SageMaker and Google AI Platform.
     Data Versioning: Leveraging tools like DVC and Pachyderm for efficient data management.
