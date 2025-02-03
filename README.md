@@ -1,6 +1,6 @@
 # End-to-End-MLOps
 
-This repository is a comprehensive guide to MLOps (Machine Learning Operations) — the technique of streamlining and automating the deployment, monitoring, and maintenance of machine learning models in production. It provides resources, tutorials, and best practices for implementing robust MLOps pipelines, making machine learning scalable and efficient.
+This repository is a comprehensive guide to MLOps (Machine Learning Operations) — the technique of streamlining and automating the deployment, monitoring, and maintenance of ML models in production. It provides resources, tutorials, and best practices for implementing robust MLOps pipelines, making machine learning scalable and efficient.
 
 ![MLops](https://ml-ops.org/img/mlops-phasen.jpg)
 
