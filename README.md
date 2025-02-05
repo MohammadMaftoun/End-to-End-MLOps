@@ -1,6 +1,6 @@
 # End-to-End-MLOps
 
-This repository is a comprehensive guide to MLOps (Machine Learning Operations) — the technique of streamlining and automating the deployment, monitoring, and maintenance of ML models in production. It provides resources, tutorials, and best practices for implementing robust MLOps pipelines, making machine learning scalable and efficient.
+This repository is a comprehensive guide to MLOps (Machine Learning Operations) — the technique of streamlining and automating the deployment, monitoring, and maintenance of ML models in production. It provides resources, tutorials, and best practices for implementing robust MLOps pipelines, making ML scalable and efficient.
 
 ![MLops](https://ml-ops.org/img/mlops-phasen.jpg)
 
@@ -13,7 +13,7 @@ This repository is a comprehensive guide to MLOps (Machine Learning Operations) 
     Monitoring & Logging: Tracking model performance in production using tools like Prometheus, Grafana, and AI.
     Infrastructure as Code (IaC): Setting up scalable environments with Terraform and Ansible.
 
-This repository is for data scientists, ML engineers, and DevOps professionals who want to bridge the gap between machine learning and software engineering.
+This repository is for data scientists, ML engineers, and DevOps professionals who want to bridge the gap between ML and software engineering.
 
 # Features
 
