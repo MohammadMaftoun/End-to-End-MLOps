@@ -13,7 +13,7 @@ This repository is a comprehensive guide to MLOps (Machine Learning Operations) 
     Monitoring & Logging: Tracking model performance in production using tools like Prometheus, Grafana, and AI.
     Infrastructure as Code (IaC): Setting up scalable environments with Terraform and Ansible.
 
-This repository is for data scientists, ML engineers, and DevOps professionals who want to bridge the gap between ML and software engineering.
+This repository is designed for data scientists, ML engineers, and DevOps professionals who want to bridge the gap between ML and software engineering.
 
 # Features
 
