@@ -10,7 +10,7 @@ This repository is a comprehensive guide to MLOps (Machine Learning Operations) 
     Model Training & Optimization: Managing experiments using MLflow, Weights & Biases, and Optuna tools.
     Model Deployment: Deploying models to production with Docker, Kubernetes, and cloud platforms such as AWS SageMaker and Google AI Platform.
     Data Versioning: Leveraging tools like DVC and Pachyderm for efficient data management.
-    Monitoring & Logging: Tracking model performance in production using tools like Prometheus, Grafana, and AI.
+    Monitoring & Logging: Tracking model performance in production employing tools like Prometheus, Grafana, and AI.
     Infrastructure as Code (IaC): Setting up scalable environments with Terraform and Ansible.
 
 This repository is designed for data scientists, ML engineers, and DevOps professionals who want to bridge the gap between ML and software engineering.
